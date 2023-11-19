@@ -1,0 +1,10 @@
+.bar{
+    
+	width: 50px;
+	background-color: #00f;
+}
+
+#tester{
+	display: flex;
+	
+}
